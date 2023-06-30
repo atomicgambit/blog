@@ -29,15 +29,15 @@ The inmates were starved, sleep-deprived and forced to do extreme manual labor.
 In these conditions, Viktor Frankl noticed how inmates varied from each other in their mindset.
 
 A lot of people did not want to continue living in a concentration camp.
-Many of them gave up.
 Everyone entertained the possibility of suicide. Some followed through.  
 The most popular way was to “run into the wire”, referring to touching an electrically charged barbed wire.
 
 A lot of the inmates had the belief that they would be reunited with their families before Christmas.
-When this didn’t happen, many were unable to deal with this mental setback.
+When this didn’t happen, some were unable to deal with this mental setback.
 They gave up.
-And they died a few days later to seemingly unrelated causes, causing a sudden spike in casualties around that time.
-A sickness may have caused their deaths, but Viktor Frankl concluded that it was not having the heart to continue that killed them.
+
+They died a few days later to seemingly unrelated causes, causing a sudden spike in casualties around Christmas.
+A sickness may have caused their deaths, but Viktor Frankl concluded that it was not having the heart to continue that really killed them.
 
 ## A different attitude
 

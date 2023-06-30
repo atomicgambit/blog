@@ -9,7 +9,7 @@ tags:
   - books
   - Nietzsche
   - resilience
-ogImage: ""
+ogImage: "astropaper-og.jpg"
 description: In "Man's Search for Meaning", Viktor Frankl explains how to find meaning in suffering—even inside concentration camps.
 ---
 
@@ -26,61 +26,18 @@ In the book he shares his experiences and builds up to a conclusion that can be 
 The living conditions in the concentration camps were awful.
 
 The inmates were starved, sleep-deprived and forced to do extreme manual labor.
-They received beatings when they couldn’t keep up.
-They did this with only a few hundred calories per day.
-Every day they received a piece of dry bread and a bowl of thin, watery soup.
-If they got lucky, some of the soups included a meager amount of peas.
+In these conditions, Viktor Frankl noticed how inmates varied from each other in their mindset.
 
-For winter, their only protection was a set of thin clothes.
-Infectious diseases, frostbite and gangrene were commonplace.
-
-Almost everyone had various amounts of edema, a condition caused by a poor diet (a lack of proteins) where fluids start building up in your peripheral tissue.
-It typically starts at the feet and progresses to the rest of your body.
-I remember reading about someone who started crying because he couldn’t fit his feet inside his shoes.
-If your shoes don’t fit you are out of luck because the Nazis didn’t hand out new ones.
-And this happened during the middle of winter.
-A seemingly impossible task lay ahead of him: facing the snow barefoot for a whole day and suffer extreme cold while performing manual labor.
-He would probably lose his toes and feet to frostbite.
-Brutal.
-
-In all this suffering, Viktor Frankl saw that the mindset of the inmates varied from person to person.
 A lot of people did not want to continue living in a concentration camp.
 Many of them gave up.
 Everyone entertained the possibility of suicide. Some followed through.  
 The most popular way was to “run into the wire”, referring to touching an electrically charged barbed wire.
 
-Some would sit in a corner and smoke all their cigarettes.
-Cigarettes were used as money in the camps.
-Inmates used it to buy extra food (probably more soup).
-Smoking (all) your cigarettes is the equivalent of spending all your money when you only have one more day to live.
-This inmate had given up all hope.
-
-He also saw that during Christmas time, there was a sudden rise in casualties.
-He theorized that many had the naive belief that around Christmas, they would be reunited with their families.
+A lot of the inmates had the belief that they would be reunited with their families before Christmas.
 When this didn’t happen, many were unable to deal with this mental setback.
-And they died a few days later to seemingly unrelated causes.
-A sickness often caused their deaths, but it was not having the heart to continue that killed them.
-
-## Resilience
-
-In the context of physical resilience, his theory makes sense.
-Physical resilience is the ability to resist a decline in health or to recover physical health following a stressor.<a href="#1" class="footnote-link"><sup>1</sup></a>
-
-A stressor can be anything.
-Influenza is a stressor, but so is the death of a family member, or any form of surgery.
-Older people often lack a resilient response and regularly die from influenza infections.  
-Whereas younger individuals shrug it off in a few days.
-In this scenario, the influenza virus is the stressor, and recovery is the response.
-How quickly someone recovers, and how well, is a measure for resilience.
-
-In a concentration camp, resilience is everything.
-
-A high physical resilience increases the chance of surviving infections, beatings, malnourishment or any other stressor that does not immediately kill you.
-The study <a href="#1" class="footnote-link"><sup>1</sup></a> (and common sense) suggest that depressive symptoms can decrease physical resilience.
-
-This explains the sudden rise in casualties during Christmas.
-Giving up on life around Christmas affected their resilience.
-They were unable to recover from stressors that they normally could have dealt with.
+They gave up.
+And they died a few days later to seemingly unrelated causes, causing a sudden spike in casualties around that time.
+A sickness may have caused their deaths, but Viktor Frankl concluded that it was not having the heart to continue that killed them.
 
 ## A different attitude
 
@@ -133,18 +90,10 @@ There is a great example of this in the book:
 
 It’s not easy to find meaning in suffering.
 As we saw in the example above, it takes some creativity or a different perspective.
-That’s why it helps to talk with psychologists or logotherapists.
+That’s why it helps to talk with a therapist.
 They can ask you questions and force you to look at things from a different perspective.
 
 > When we are no longer able to change a situation we are challenged to change ourselves.
 
 Transforming suffering into something meaningful is a powerful skill.
 All it takes is practice and a different attitude.
-
-<button class="footnotes" onclick="myFunction()">Footnotes</button>
-
-<div id="footnotes" style="display: none;">
-  <ol>
-    <li><a href="https://pubmed.ncbi.nlm.nih.gov/26718984/">A systematic review of physical resilience in older adults</a></li>
-  </ol>
-</div>

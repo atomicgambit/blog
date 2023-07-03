@@ -13,14 +13,17 @@ description: There are two ways to set goals. Here's how to do it right.
 ---
 
 Imagine a guy named Terry, who is not satisfied with his job.
+
 He wants a promotion.
 He tells his boss about it and starts working his butt off for the next 10 years.
+
 During his 10-year struggle, he often gets anxious because he worries about not getting promoted.
 And occasionally he gets frustrated because the boss doesn’t seem to notice his efforts.
 After 10 years of striving and repeating the daily motions, he still hasn’t been promoted.
 He feels miserable, and he can’t help but wonder if he wasted 10 years of his life.
 
 Now imagine a girl named Ciri, who is also interested in a promotion.
+
 She tells her boss about this.
 But she formulates a different goal: she wants to develop herself.
 She focuses on getting better every day.
@@ -41,7 +44,7 @@ She is **internalizing her goals.**<sup>1</sup>
 ## External goals
 
 External goals are goals that focus on material rewards and other people's opinions.
-Wealth, fame, titles, twitter-followers, getting in shape to look good on the beac and pleasing your boss are all a form of external goals.
+Wealth, fame, titles, twitter-followers and pleasing your boss are all examples of external goals.
 
 Pursuing external goals has drawbacks.
 External goals are a decision to strive toward something in the future.

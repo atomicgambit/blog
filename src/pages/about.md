@@ -41,13 +41,18 @@ That’s why I love writing.
 
 The best way to follow my work is by subscribing to my newsletter.
 
+<script
+        async
+        data-uid="39673c4bce"
+        src="https://vitos-archiv.ck.page/39673c4bce/index.js"></script>
+
 ## Quick Facts
 
 - 26 years old
 - Born in the Netherlands, but from Sri Lankan descent
 - Somewhat decent piano player
 - A fan of video games, reading, epic fantasy novels, anime and the occasional movie/tv-show
-- Love to travel. My favourite country is Japan
+- Love to travel. My favourite country to visit is Japan
 
 ## Introduce yourself
 

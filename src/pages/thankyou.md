@@ -13,4 +13,4 @@ So let’s make this interaction a two-way street. If you have time, introduce y
 
 Now here’s something else that I wanted to share with you. Enjoy!
 
-<a href="./best-blogposts">Personal favorites: the best blogposts of all time</a>
+<a href="/best-blogposts">Personal favorites: the best blogposts of all time</a>

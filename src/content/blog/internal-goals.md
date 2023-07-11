@@ -73,8 +73,9 @@ A true externalist will always chase the next big thing, never reflecting on why
 
 ## Internal goals
 
-Pursuing internal goals however has clear advantages.
-You are in full control.
+An interal goal is a goal that doesn't require any external factors.
+
+The main advantage is that you are in full control.
 Results are virtually guaranteed.
 And the control you have over your goals rids you of anxiety and frustration.
 
@@ -85,17 +86,17 @@ This puts them in a happier state of mind.
 
 A true internalist like Ciri is invincible.
 Everything she wants is within her control.
-All the good things in life, she gets it from herself.
+All the good things in life, she gets it from _herself_.
 
-An externalist believes the good things reside in the world he lives in.
+An externalist believes the good things reside _in the world_ he lives in.
 Everything he wants is outside of his control.
 
-The main difference is that the internalist focuses on the journey, whereas the externalist focuses on the destination.
+Another way to think about it is that the internalist focuses on the journey, whereas the externalist focuses on the destination.
+
 Most of our life is the journey.
 That feeling people get after achieving their destination is short-lived.
 It’s a much better strategy to make the journey enjoyable.
 
-So here’s my advice.
 Don’t make it your goal to change the world.  
 Make it your goal to **do your best** to bring about certain changes.
 Even if you fail to change the world, you can rest easy knowing that you gave it your all.
@@ -108,13 +109,3 @@ Internalize your goals.
 2. A small spin-off from a quote from Naval: "Desire is a contract that you make with yourself to be unhappy until you get what you want."
 
 ---
-
-Thanks for reading. If you like my content, consider subscribing to my
-newsletter.
-
-Once a week, I summarize high-quality insights and timeless ideas from the best
-sources available. Each issue is carefully crafted to benefit your learning.
-
-Sign up for free and join a growing community of continuous learners.
-
-<script async data-uid="39673c4bce" src="https://vitos-archiv.ck.page/39673c4bce/index.js"></script>

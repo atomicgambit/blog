@@ -99,13 +99,3 @@ Transforming suffering into something meaningful is a powerful skill.
 All it takes is practice and a different attitude.
 
 ---
-
-Thanks for reading. If you like my content, consider subscribing to my
-newsletter.
-
-Once a week, I summarize high-quality insights and timeless ideas from the best
-sources available. Each issue is carefully crafted to benefit your learning.
-
-Sign up for free and join a growing community of continuous learners.
-
-<script async data-uid="39673c4bce" src="https://vitos-archiv.ck.page/39673c4bce/index.js"></script>

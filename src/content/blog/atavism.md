@@ -3,13 +3,13 @@ author: Vito
 pubDatetime: 2023-07-11T21:20:00Z
 title: Why Some Babies Are Born With Tails
 postSlug: atavism
-featured: false
+featured: true
 draft: true
 tags:
   - Biology
   - Medicine
   - Evolution
-ogImage: "../assets/images/goku-atavism.jpg"
+ogImage: ".../public/assets/images/goku-atavism.jpg"
 description: The fascinating science behind why some babies are born with tails.
 ---
 
@@ -19,7 +19,7 @@ A true tail, filled with muscles, bones, blood vessels and nerve fibers.
 I don’t know the current amount of reported cases, but in 2012 it was less than 40.<sup>1</sup>
 In some of those cases, the babies were even able to move/contract their tails when they got emotional!
 
-<img title="Kid Goku and a 3-month baby with a true tail" alt="Kid Goku on the left side and a 3-month baby with a tail on the right side" src="../assets/images/goku-atavism.jpg">
+<img title="Kid Goku and a 3-month baby with a true tail" alt="Kid Goku on the left side and a 3-month baby with a tail on the right side" src=".../public/assets/images/goku-atavism.jpg">
 <figcaption><em>On the left: Kid Goku, the only baby with a tail I knew of. On the right: a 3-month old baby with a true tail. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3339178/">Source</a></em></figcaption>
 
 How the fuck does this happen?

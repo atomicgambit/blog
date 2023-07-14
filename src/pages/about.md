@@ -43,8 +43,8 @@ The best way to follow my work is by subscribing to my newsletter.
 
 <script
         async
-        data-uid="39673c4bce"
-        src="https://vitos-archiv.ck.page/39673c4bce/index.js"></script>
+        data-uid="bf67435853"
+        src="https://vitos-archiv.ck.page/bf67435853/index.js"></script>
 
 ## Quick Facts
 

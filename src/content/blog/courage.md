@@ -16,9 +16,7 @@ description: If we want to live a good life, we need to exercise our freedom. To
 Are you aware of the courage-effect?
 
 It’s a phenomenon where everythings sounds better when you slap courage in front of it.
-Take for example a student who is constantly asking stupid questions.
-
-You can frame it in two ways.
+Take for example a student who is constantly asking stupid questions. You can frame it in two ways.
 
 “He is asking stupid questions” is one way.
 
@@ -33,8 +31,8 @@ Sounds different right?
 
 Maybe now we even find ourselves respecting the guy.
 We think: “Damn, it’s almost noble that he has the guts to ask stupid questions like that.”
-
 That’s what happens when you slap “courage” in front of something.
+
 I have more examples.
 
 “He has the courage to lie.”
@@ -44,7 +42,6 @@ This makes it sound like he is lying to protect someone, even though it’s not 
 “She has the courage to admit her defeat.”
 
 It's amazing that she has the courage to do that!
-
 Even though it could also be someone who gambled all her savings at the casino, and finally decides to quit.
 
 Ichiro Kishimi recently used this trick for the title of a book.

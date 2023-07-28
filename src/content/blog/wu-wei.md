@@ -18,7 +18,7 @@ What is the difference between a bike ride of 45 minutes, and a bike ride of 43 
 Nope, it’s not just two minutes. Turns out that it’s much more than that.
 
 Derek Sivers tells the story of how he took bike rides along a beautiful coastal route of 24 km in California.
-Every time, he would give it his all–100% of his effort–and he would finish his bike ride, completely exhausted, in 45 minutes.
+Every time, he would give it his all–100% of his effort–and he would finish his bike ride, completely exhausted, in 43 minutes.
 After doing this dozens of times, he got sick of it.
 
 So next time, he decided to take it easy.
@@ -31,7 +31,7 @@ And he loved it.
 
 When he finished the route and looked at his watch, he couldn’t believe what he saw.
 
-**43 minutes.**
+**45 minutes.**
 
 This is how most of us go through work.
 Always in a hurry, always straining to get things done.

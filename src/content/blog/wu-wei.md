@@ -1,6 +1,6 @@
 ---
 author: Vito
-pubDatetime: 2023-06-25T13:54:00Z
+pubDatetime: 2023-07-28T12:54:00Z
 title: Wu Wei and the Joy of Living an Unoptimized Life
 postSlug: wu-wei
 featured: true

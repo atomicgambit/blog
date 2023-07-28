@@ -3,7 +3,7 @@ author: Vito
 pubDatetime: 2023-07-17T11:54:00Z
 title: The Courage to be Disliked
 postSlug: courage
-featured: true
+featured: false
 draft: false
 tags:
   - books
@@ -140,3 +140,5 @@ I often remind myself that it is not my job to satisfy all their expectations an
 All I can do is live my own life, according to my own principles.
 To enjoy that freedom, I need courage.
 The courage to disappoint my parents.
+
+---

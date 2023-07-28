@@ -40,10 +40,18 @@ const ogUrl = new URL(ogImage ? ogImage : `${title}.png`, Astro.url.origin)
     <Datetime datetime={pubDatetime} size="lg" className="my-2" />
     <article id="article" role="article" class="prose mx-auto mt-8 max-w-3xl">
       <Content />
+      <p>
+        Thanks for reading. If you like my content, consider subscribing to my
+        newsletter.
+      </p>
+      <p>
+        Twice a month, I send out insights from the world's best books and
+        thinkers. My newsletters are short and to the point.
+      </p>
       <script
         async
-        data-uid="cc4d36d07f"
-        src="https://vitos-archiv.ck.page/cc4d36d07f/index.js"></script>
+        data-uid="bf67435853"
+        src="https://vitos-archiv.ck.page/bf67435853/index.js"></script>
 
       <ul class="tags-container">
         {tags.map(tag => <Tag name={slugifyStr(tag)} />)}

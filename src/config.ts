@@ -6,7 +6,7 @@ export const SITE: Site = {
   desc: "An archive of my favourite ideas, practical tools and scientific knowledge.",
   title: "Vito's Archive",
   ogImage: "astropaper-og.jpg",
-  lightAndDarkMode: false,
+  lightAndDarkMode: true,
   postPerPage: 3,
 };
 

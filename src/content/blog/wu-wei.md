@@ -10,7 +10,7 @@ tags:
   - productivity
   - philosophy
 ogImage: "astropaper-og.jpg"
-description: We can often relax for the same result, saving us a lot of stress in the process.
+description: We can often relax for the same result.
 ---
 
 What is the difference between a bike ride of 45 minutes, and a bike ride of 43 minutes?

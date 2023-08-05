@@ -3,7 +3,7 @@ author: Vito
 pubDatetime: 2023-08-05T10:20:00Z
 title: Treat First What Kills First
 postSlug: abc
-featured: true
+featured: false
 draft: false
 tags:
   - stress

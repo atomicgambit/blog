@@ -1,6 +1,6 @@
 ---
 author: Vito
-pubDatetime: 2023-07-28T12:54:00Z
+pubDatetime: 2023-08-05T10:20:00Z
 title: Treat First What Kills First
 postSlug: abc
 featured: true
